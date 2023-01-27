@@ -3,6 +3,14 @@
 	<h3>Junior Frontend Developer</h3>
 </div>
 
+### About me
+- 😄 23 y.o.
+- 🌍 I speak English
+- 🌱 I am currently studying at Rolling Scopes School
+- 📫 Reach me by [email](mailto:pavellogunvfd@gmail.com)
+
+
+
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
