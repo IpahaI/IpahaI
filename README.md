@@ -16,7 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?IpahaI=vn7n24fzkq&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?ipahai=vn7n24fzkq&theme=github_dark)
+
+
 <!--
 ### Hi there 👋
 **IpahaI/IpahaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
