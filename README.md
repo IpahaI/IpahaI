@@ -18,8 +18,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?ipahai=vn7n24fzkq&theme=github_dark)
-
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?IpahaI=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?IpahaI=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?IpahaI=vn7n24fzkq&theme=github_dark"/>
+</div>
 
 <!--
 ### Hi there 👋
