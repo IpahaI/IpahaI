@@ -5,11 +5,9 @@
 
 ### About me
 - 😄 23 y.o.
-- 🌍 I speak English
+- 🌍 I speak English А2
 - 🌱 I am currently studying at Rolling Scopes School
 - 📫 Reach me by [email](mailto:pavellogunvfd@gmail.com)
-
-
 
 
 ### Languages and tools
@@ -17,6 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?IpahaI=vn7n24fzkq&theme=github_dark)
 <!--
 ### Hi there 👋
 **IpahaI/IpahaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
