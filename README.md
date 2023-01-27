@@ -9,6 +9,8 @@
 - 🌱 I am currently studying at Rolling Scopes School
 - 📫 Reach me by [email](mailto:pavellogunvfd@gmail.com)
 
+---
+
 
 
 
@@ -19,11 +21,14 @@
 
 
 ### My stat
+
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?ipahai=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?ipahai=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?ipahai=vn7n24fzkq&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
 </div>
+
+---
 
 <!--
 ### Hi there 👋
