@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Pavel</h1>
-	<h3>Junior Frontend Developer</h3>
+	<h3>Junior Front-End Developer</h3>
 </div>
 
 ### About me
