@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-- 😄 23 y.o.
+- 😄 25 y.o.
 - 🌍 I speak English А2
 - 🌱 I am currently studying at Rolling Scopes School
 - 📫 Reach me by [email](mailto:pavellogunvfd@gmail.com)
